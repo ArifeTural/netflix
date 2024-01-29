@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./img/background_image.jpeg);
+}
+.dıs{
+    
+    background-color: rgba(0, 0, 0, 0.387);
+   margin: 60px;
+   margin: auto;
+   border: 1px solid rgba(0, 0, 0, 0);
+   width: 90%;
+   height: 800px;
+  
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+span{
+    color: red;
+}
+p{
+    text-align: center;
+    color: white;
+}
+
+.iç{
+    color: white;
+    text-align: left ;
+    background-color: rgba(0, 0, 0, 0.716);
+    margin: 300px;
+    margin: auto;
+    width: 30%;
+    height: 600px;
+    border: 10px solid rgba(0, 0, 0, 0);
+
+}
+.p1{
+    text-align: left;
+}
+
+.name{
+    width: 300px;
+}
+img{
+    position: relative;
+    width: 100%;
+
+}
